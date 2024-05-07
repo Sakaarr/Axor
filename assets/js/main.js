@@ -5,7 +5,10 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+document.addEventListener('DOMContentLoaded', function() {
+  const photoContainer = document.querySelector('.backphoto');
+  photoContainer.classList.add('fade-in'); // Add the fade-in class to trigger the fade-in effect
+});
 (function() {
   "use strict";
 
