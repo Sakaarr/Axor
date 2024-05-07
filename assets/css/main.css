@@ -835,6 +835,7 @@ section,
   -o-object-fit: contain;
   object-fit: contain;
   z-index: 2;
+  right:50%;
 }
 
 /* .hero:before {
@@ -867,6 +868,8 @@ section,
   font-size: 2rem;
   white-space: nowrap;
   overflow: hidden;
+  left: 20%;
+  z-index: 66; 
 }
 
 .text-container span {
