@@ -904,6 +904,7 @@ section,
   height: 100%;
   width: 100%;
   position: absolute;
+  left: 10%;
   transform-style: preserve-3d;
     /* transition: all 300ms linear; */
   animation: animate 5000ms linear infinite;
